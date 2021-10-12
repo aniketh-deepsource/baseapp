@@ -2,7 +2,7 @@ version = 1
 
 
 exclude_patterns = [
-    "web/public/charting_library/**",
+    "web/public/**",
 ]
 
 [[analyzers]]
