@@ -3,6 +3,33 @@ version = 1
 
 exclude_patterns = [
     "web/public/**",
+    "web/docs/**",
+    "web/mocks/**",
+    "web/node_modules/**",
+    "web/public/**",
+    "web/scripts/**",
+    "web/spec/**",
+    "web/src/api/**",
+    "web/src/app/**",
+    "web/src/assets/**",
+    "web/src/charting_library/**",
+    "web/src/components/**",
+    "web/src/containers/**",
+    "web/src/custom/**",
+    "web/src/filters/**",
+    "web/src/helpers/**",
+    "web/src/hooks/**",
+    "web/src/mobile/**",
+    "web/src/modules/**",
+    "web/src/routes/**",
+    "web/src/screens/**",
+    "web/src/styles/**",
+    "web/src/themes/**",
+    "web/src/translations/**",
+    "web/src/App.test.tsx/**",
+    "web/src/App.tsx/**",
+    "web/src/index.tsx/**"
+
 ]
 
 [[analyzers]]
